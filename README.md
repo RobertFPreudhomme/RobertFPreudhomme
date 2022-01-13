@@ -1,8 +1,8 @@
 - 👋 Hi, I’m @RobertFPreudhomme
 - 👀 I’m interested in learning more SQL, PYTHON, HTML, CSS, and Javascript
-- 🌱 I’m currently learning ...Python through Eric Mathes and online resource
+- 🌱 I’m currently learning ...HTML, CSS, JS through freecodecamp.org, MDN web docs, and Python through Eric Mathes
 - 💞️ I’m looking to collaborate on how to make better projects, more interactive programs, and troubleshooting projects
-- 📫 How to reach me facebook, or on here.
+- 📫 Feel free to reach out on LinkedIn or on here.
 
 <!---
 RobertFPreudhomme/RobertFPreudhomme is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
